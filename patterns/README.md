@@ -8,4 +8,4 @@
 
 
 #### References
-[Agentic Design Patterns](https://books.google.com/books/about/Agentic_Design_Patterns.html)
+[Agentic Design Patterns](https://books.google.com/books/about/Agentic_Design_Patterns.html?id=QqR20QEACAAJ)
